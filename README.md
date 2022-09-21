@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Systems Administrator
 ---------------------------------------------
 
-I've worked in IT support for 4 years across multiple business sectors including retail/logistics, military/government contracting, and higher education. I'm currently getting my masters in Data Science & Strategic Analytics. Throughout my IT experience, I've supported existing networks, configured new networks (routers, switches, Wireless LAN Controllers, Access Points, Firewalls, Servers, etc.), and administered company devices through different MDMs. 
+I've worked in IT support for 4 years across multiple sectors including retail/logistics, military/government contracting, and higher education. I'm currently getting my masters in Data Science & Strategic Analytics. Throughout my IT experience, I've supported existing networks, configured new networks (routers, switches, Wireless LAN Controllers, Access Points, Firewalls, Servers, etc.), and administered company devices through different MDMs. 
 
 * 🌍  I'm based in New Jersey.
 * ✉️  You can contact me at [campb223@go.stockton.edu](mailto:campb223@go.stockton.edu).
