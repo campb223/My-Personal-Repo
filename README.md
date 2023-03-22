@@ -9,7 +9,7 @@ I've worked in IT support for 4 years across multiple sectors including retail/l
 * 🌍  I'm based in New Jersey.
 * ✉️  You can contact me at [campb223@go.stockton.edu](mailto:campb223@go.stockton.edu).
 * 🚀  I'm studying to get my masters in Data Science. 
-* ⚡  I love to golf. Nothing beats four hours out with the boys tipping back cold ones. 
+* ⚡  I love to golf.  
 * 🤝  I'm open to collaborating on Web Applications, Website Design, anything Homebridge related, or classwork 
 
 ### Skills
