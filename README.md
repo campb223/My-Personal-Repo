@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Systems Administrator
 ---------------------------------------------
 
-I've worked in IT support for 4 years across multiple sectors including retail/logistics, military/government contracting, and higher education. I'm currently getting my masters in Data Science & Strategic Analytics. Throughout my IT experience, I've supported existing networks, configured new networks (routers, switches, Wireless LAN Controllers, Access Points, Firewalls, Servers, etc.), and administered company devices through different MDMs. 
+I've worked in IT support for 5 years across multiple sectors including retail/logistics, military/government contracting, and higher education. I've recently completed my masters in Data Science & Strategic Analytics. Throughout my IT experience, I've supported existing networks, configured new networks (routers, switches, Wireless LAN Controllers, Access Points, Firewalls, Servers, etc.), and administered company devices through different MDMs. 
 
 * 🌍  I'm based in New Jersey.
 * ✉️  You can contact me at [campb223@go.stockton.edu](mailto:campb223@go.stockton.edu).
-* 🚀  I'm studying to get my masters in Data Science. 
+* 🚀  Trying to learn which machine learning models produce the best wager recommendations. 
 * ⚡  I love to golf.  
-* 🤝  I'm open to collaborating on Web Applications, Website Design, anything Homebridge related, or classwork 
+* 🤝  I'm open to collaborating on Web Applications, Website Design, or anything Homebridge related.
 
 ### Skills
 
